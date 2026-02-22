@@ -43,3 +43,16 @@ Le réseau est correctement segmenté.
 Les machines communiquent uniquement au sein de leur VLAN respectif.
 
 Projet réalisé dans le cadre du Bac Pro CIEL.
+
+## 📌 Résultat
+
+Le réseau est correctement segmenté.
+Les machines communiquent uniquement au sein de leur VLAN respectif.
+
+---
+
+## 📂 Structure du projet
+
+- `README.md` → Présentation du projet
+- `configuration-switch.txt` → Configuration VLAN du switch
+- `docs/schema-reseau.md` → Détails techniques et segmentation réseau
